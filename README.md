@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/SoulOfMo/fylo-dark-theme-landing-page.git)
 - Live Site URL: [Live Site](https://soul-of-mo-fylo-landing-page.netlify.app/)
 
 ## My process
